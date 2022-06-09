@@ -12,7 +12,7 @@
 	<nav>
 		<img id="logo" src="img/luffy.png" alt="logo">
 	
-		<ul id="menu">
+		<ul>
 			<a href="index.html"> <li>HOME</li></a>
 			<a href="contatos.html"><li>CONTATOS</li></a>
 			<a href="sobre.html"><li>SOBRE</li></a>
